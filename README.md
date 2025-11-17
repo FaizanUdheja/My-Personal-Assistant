@@ -95,8 +95,8 @@ java -cp bin assistant.Main
 
 ## 🙋‍♂️ Author
 
-**Sahil Trivedi**
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/trivedi-sahil-5212002b0)
+**Faizan Udheja**
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/faizanudheja)
 
 ---
 
