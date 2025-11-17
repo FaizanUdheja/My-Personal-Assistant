@@ -61,8 +61,8 @@ My-personal-Assistant/
 
 ```bash
 # 1. Clone the project
-git clone https://github.com/trivedisahil91/My-personal-Assistant.git
-cd My-personal-Assistant
+https://github.com/FaizanUdheja/My-Personal-Assistant.git
+cd My-Personal-Assistant
 
 # 2. Compile and run
 javac -d bin src/assistant/*.java
